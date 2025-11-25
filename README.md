@@ -60,11 +60,9 @@ All AI interactions use free-tier services:
 | Animations       | React Native Animated API                                |
 
 📱 Screenshots
-🟦 Home Screen
+
 <img src="./assets/images/ss1.png" width="350" />
-🟩 Analysis Result
 <img src="./assets/images/ss2.png" width="350" />
-🟧 History Screen
 <img src="./assets/images/ss3.png" width="350" />
 📡 API Usage
 🔹 Hugging Face — Sentiment Analysis
